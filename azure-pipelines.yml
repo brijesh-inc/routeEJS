@@ -14,5 +14,5 @@ steps:
 
 - script: |
     npm install
-    node server
+    # node server
   displayName: 'npm install and node server'
